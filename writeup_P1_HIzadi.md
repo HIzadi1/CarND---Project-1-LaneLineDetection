@@ -1,8 +1,6 @@
 # **Finding Lane Lines on the Road** 
 
-## Writeup Template
-
-### You can use this file as a template for your writeup if you want to submit it as a markdown file. But feel free to use some other method and submit a pdf if you prefer.
+The goal of this project 1 of CarND course if to detect the basic road lane lines on the image and videos. 6 test images and 3 test videos (1 challenge) are provided to test the final pipeline. 
 
 ---
 
